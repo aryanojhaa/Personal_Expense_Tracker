@@ -1,6 +1,6 @@
 # Budgetly — Personal Expense Tracker
 
-A full-stack MERN application for tracking personal finances with analytics.
+A full-stack application for tracking personal finances with analytics.
 
 ## Tech Stack
 - **Frontend**: React 18, React Router v6, Recharts, Axios
